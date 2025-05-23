@@ -16,13 +16,14 @@ Support all user interactions that can be done: both, field/link should always r
 - Theme and epic don’t have to be in the same project
 
 ## Environment
-The code can be checked using self-hosted jira: https://confluence.atlassian.com/adminjiraserver/installing-jira-applications-on-windows-938846835.html
+### Atlassian: Data Center
+The code can be checked using self-hosted [jira](https://confluence.atlassian.com/adminjiraserver/installing-jira-applications-on-windows-938846835.html)
 
-Atlassian: Data Center
+### Apps: 
+- [Elements Connect](https://marketplace.atlassian.com/apps/23337/elements-connect-external-data-fields-for-jira?tab=overview&hosting=datacenter)
 
-Apps: 
-- Elements Connect https://marketplace.atlassian.com/apps/23337/elements-connect-external-data-fields-for-jira?tab=overview&hosting=datacenter
-
+### Configuration
+[Setup guide](./setup.md)
 
 # Submission
 Share the code you created in github. 
